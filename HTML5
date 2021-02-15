@@ -1,0 +1,92 @@
+<!DOCTYPE html> 
+
+ 
+
+<html> 
+
+ 
+
+   <head> 
+
+      <meta charset="utf-8"> 
+
+      <title>...</title> 
+
+   </head> 
+
+ 
+
+   <body> 
+
+ 
+
+      <header role="banner"> 
+
+         <h1>Kristoffer Modise</h1> 
+
+         <p>Getting to know me</p> 
+
+      </header> 
+
+ 
+
+      <nav> 
+
+ 
+
+         <ol> 
+
+            <li><a href="#">Kristoffer Modise Prof</a></li> 
+
+            <li><a href="#">Contacts @kristoffermodise02@gmail.com or 73860203</a></li> 
+
+            <li><a href="#">Kristoffer Modise is a male aged 19. He is into football and spends most of his time either playing it or watching it. 
+            he lives in Block 10 with his Guardians and previously schooled at Naledi SSS before getting admitted into BAC.</a></li> 
+
+         </ol> 
+
+ 
+
+      </nav> 
+
+ 
+
+      <article> 
+
+         <section> 
+
+            <p>Oce article can have multiple sections</p> 
+
+         </section> 
+
+      </article> 
+
+ 
+
+      <aside> 
+
+         <p>This is aside part of the web page</p> 
+
+      </aside> 
+
+       
+
+      <figure align="right"> 
+
+        <img src="/html5/images/logo.png" alt="TutorialPoint" width="200" height="100"> 
+
+      </figure> 
+
+       
+
+      <footer> 
+
+         <p>Created by <a href="#">Tutorials Point</a></p> 
+
+      </footer> 
+
+ 
+
+   </body> 
+
+</html> 
